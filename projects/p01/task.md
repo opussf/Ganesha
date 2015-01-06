@@ -16,3 +16,5 @@ Write this as a script, not with objects.
 ### What will be learned
 Printing output, accepting input, variables, functions (passing values, and returning values)
 
+### Bonus
+Test the input for valid values.
