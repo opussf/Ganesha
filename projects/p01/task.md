@@ -1,7 +1,7 @@
 # Project 01
 
 ## Task
-Write a script that takes 2 numbers, and shows the following for those 2 numbers:
+Write a script that takes 2 integers, and shows the following for those 2 integers:
 
 Sum, difference, product, quotient and remainder, Least Common Multiple.
 
@@ -16,5 +16,8 @@ Write this as a script, not with objects.
 ### What will be learned
 Printing output, accepting input, variables, functions (passing values, and returning values)
 
-### Bonus
-Test the input for valid values.
+### Bonuses
+- [ ] Test the input for valid values.
+- [ ] Restrict inputs to integers
+- [ ] Use a List to calcuate the LCM
+- [ ] Use sets to calculate the LCM
