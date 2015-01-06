@@ -21,3 +21,5 @@ Printing output, accepting input, variables, functions (passing values, and retu
 - [ ] Restrict inputs to integers
 - [ ] Use a List to calcuate the LCM
 - [ ] Use sets to calculate the LCM
+- [ ] Handle a 0 being given as either of the inputs
+- [ ] Find and catch other input issues
